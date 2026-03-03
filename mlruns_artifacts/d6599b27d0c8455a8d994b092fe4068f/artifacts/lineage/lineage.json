@@ -1,0 +1,19 @@
+{
+  "run_id": "d6599b27d0c8455a8d994b092fe4068f",
+  "params": {
+    "C": 0.01,
+    "max_iter": 200
+  },
+  "metrics": {
+    "accuracy": 0.8,
+    "f1": 0.7802197802197802
+  },
+  "hashes": {
+    "model_hash": "f2bf8949fc49c8c53168510fdf949a22384e6d1e93d0a5ec1f0241a9fa7bcbc8",
+    "data_hash": "0ba79ae755c686ee02dfe1d2943772a46ded2433c4fde6dd7ad3b01c41ff5d3d"
+  },
+  "tracking": {
+    "tracking_uri": "file:/Users/manjotkaur/ids568-milestone3-mkaur25/mlruns",
+    "experiment": "milestone3"
+  }
+}

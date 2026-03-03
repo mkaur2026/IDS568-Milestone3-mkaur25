@@ -1,0 +1,19 @@
+{
+  "run_id": "ab6ccac4f44e46229120dec9952a506e",
+  "params": {
+    "C": 1.0,
+    "max_iter": 200
+  },
+  "metrics": {
+    "accuracy": 0.9666666666666667,
+    "f1": 0.9665831244778612
+  },
+  "hashes": {
+    "model_hash": "cc69021151c561d33d35eb8c6b43b7719388eaccd98f40a6b49e454cd9a3223a",
+    "data_hash": "0ba79ae755c686ee02dfe1d2943772a46ded2433c4fde6dd7ad3b01c41ff5d3d"
+  },
+  "tracking": {
+    "tracking_uri": "sqlite:///mlflow.db",
+    "experiment": "milestone3"
+  }
+}

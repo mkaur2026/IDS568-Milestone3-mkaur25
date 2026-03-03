@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manjotkaur/ids568-milestone3-mkaur25/mlruns_artifacts/2c5c7c76dba64575a81b9b398b21169e/artifacts
+end_time: 1772579859472
+entry_point_name: ''
+experiment_id: '293384768907500962'
+lifecycle_stage: active
+run_id: 2c5c7c76dba64575a81b9b398b21169e
+run_name: brawny-shoat-380
+run_uuid: 2c5c7c76dba64575a81b9b398b21169e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772579859455
+status: 3
+tags: []
+user_id: manjotkaur
