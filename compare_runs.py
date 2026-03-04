@@ -31,9 +31,9 @@ def main():
             "max_iter": r.data.params.get("max_iter"),
             "accuracy": r.data.metrics.get("accuracy"),
             "f1": r.data.metrics.get("f1"),
-            "model_hash": r.data.tags.get("model_hash"),
-            "data_hash": r.data.tags.get("data_hash"),
-        })
+            "model_hash": r.data.tags.get("model_hash", ""),
+            "data_hash": r.data.tags.get("data_hash", "") 
+       })
 
     df = pd.DataFrame(rows)
 
